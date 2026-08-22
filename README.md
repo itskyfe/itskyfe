@@ -18,7 +18,9 @@
 
 #### 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=itskyfe&theme=blue_navy&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=itskyfe&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=itskyfe&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itskyfe&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
