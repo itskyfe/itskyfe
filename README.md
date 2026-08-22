@@ -17,10 +17,15 @@
 ---
 
 #### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=itskyfe&theme=blue_navy&hide_border=true)
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=itskyfe&theme=highcontrast&hide_border=true)
+
+</div>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itskyfe/itskyfe/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itskyfe/itskyfe/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itskyfe/itskyfe/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
